@@ -1,4 +1,4 @@
-# repositorio-desarrollador
+# Repositorio-desarrollador
 First repo create in github
 
 ## descripción
